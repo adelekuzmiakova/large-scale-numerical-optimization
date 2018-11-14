@@ -1,1 +1,3 @@
-# large-scale-numerical-optimization
+# CME 338: large-scale numerical optimization
+
+sd
