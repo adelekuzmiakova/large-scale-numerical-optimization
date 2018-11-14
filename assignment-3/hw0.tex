@@ -1,0 +1,54 @@
+\usepackage{amsmath,amssymb}
+\usepackage{url}
+
+\textheight      9.0in
+\textwidth       5.5in
+\topmargin      -0.1in
+\oddsidemargin   0.5in
+\evensidemargin  0.5in
+\pagestyle{myheadings}
+
+\markboth{MS\&E 318 (CME 338) \quad Large-Scale Numerical Optimization}
+         {Spring 2018, Homework \HWnumb}
+
+
+%% These are some special commands not provided by macros.tex
+
+\newcommand{\problem}[4]{\fbox
+   {\begin{tabular*}{0.84\textwidth}
+    {@{}l@{\extracolsep{\fill}}l@{\extracolsep{6pt}}%
+        l@{\extracolsep{\fill}}c@{}}
+      #1 & $\minimize{#2}$ & $#3$ & $ $ \\[5pt]
+         & $\subject$      & $#4$ & $ $
+    \end{tabular*}}}
+
+\newcommand{\AI}      {(A\ -\!\!I\,)}
+\newcommand{\BS}      {\pmat{B & S}}
+\newcommand{\BN}      {\pmat{B & N}}
+\newcommand{\codes}[1]{$ $\\ \hbox to 0.4\textwidth{#1\hss}}
+\newcommand{\Eq}      {&\!=\!&}
+\newcommand{\factol}  {\hbox{\tt FacTol}}
+%\newcommand{\Matlab}  {{\sc Matlab}}
+%\newcommand{\m}       {\phantom-}
+\newcommand{\NL}      {_{\scriptscriptstyle N\!L}}
+\newcommand{\phibar}  {{\bar\phi}}
+\newcommand{\Tab}     {\\ \hspace*{\parindent}}
+\newcommand{\To}      {\,{:}\,}  % $p \To q$ gives p:q with proper spacing
+\newcommand{\updatetol}{\hbox{\tt UpdateTol}}
+\newcommand{\myvec}[2]{{\displaystyle \pmat{#1\\#2}}}
+\newcommand{\xs}      {\myvec xs}
+\newcommand{\z}       {\phantom 0}
+
+\begin{document}
+
+\thispagestyle{plain}
+\begin{center}
+           $ $
+\\[-0.7in] {\large Stanford University,
+                   Management Science and Engineering (and ICME)}
+\\[4pt]    {\Large MS\&E 318 (CME 338) \quad  Large-Scale Numerical Optimization}
+\\[6pt]    {\large Student: Adele Kuzmiakova \qquad Spring 2018}
+\\[7pt]    {\large Homework \HWnumb, Due \HWdate}
+\\         {       \url{http://stanford.edu/class/msande318/homework.html}}
+\end{center}
+
