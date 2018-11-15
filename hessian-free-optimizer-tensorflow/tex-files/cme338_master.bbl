@@ -1,0 +1,154 @@
+\begin{thebibliography}{10}
+
+\bibitem{Abadi16}
+M.~Abadi, P.~Barham, J.~Chen, Z.~Chen, A.~Davis, J.~Dean, M.~Devin,
+  S.~Ghemawat, G.~Irving, M.~Isard, M.~Kudlur, J.~Levenberg, R.~Monga,
+  S.~Moore, D.~Murray, B.~Steiner, P.~Tucker, V.~Vasudevan, P.~Warden,
+  M.~Wicke, Y.~Yu, and X.~Zheng.
+\newblock Tensorflow: A system for large-scale machine learning.
+\newblock {\em Symposium on Operating Systems Design and Implementation}, 2016.
+
+\bibitem{Berahas17}
+A.~Berahas, R.~Bollapragada, and J.~Nocedal.
+\newblock An investigation of newton-sketch and subsampled newton method.
+\newblock {\em arXiv preprint}, 2017.
+
+\bibitem{Bottou10}
+L.~Bottou.
+\newblock Large-scale machine learning with stochastic gradient descent.
+\newblock {\em Proceedings of COMPSTAT}, 2010.
+
+\bibitem{Boulanger-Lewandowsk12}
+N.~Boulanger-Lewandowsk, Y.~Bengio, and P.~Vincent.
+\newblock Modeling temporal dependencies in high- dimensional sequences:
+  Application to polyphonic music generation and transcription.
+\newblock {\em Proceeding of the ICML}, 2012.
+
+\bibitem{Chapelle11}
+O.~Chapelle and D.~Erhan.
+\newblock Improved preconditioner for hessian free optimization.
+\newblock {\em NIPS Workshop on Deep Learning and Unsupervised Feature
+  Learning}, 2011.
+
+\bibitem{Dauphin14}
+Y.~Dauphin, R.~Pascanu, C.~Gulcehre, K.~Cho, S.~Ganguli, and Y.~Bengio.
+\newblock Identifying and attacking the saddle point problem in
+  high-dimensional non-convex optimization.
+\newblock {\em Conference: Advances in Neural Information Processing Systems},
+  2014.
+
+\bibitem{Duchi11}
+J.~Duchi, E.~Hazan, and Y.~Singer.
+\newblock Adaptive subgradient methods for online learning and stochastic
+  optimization.
+\newblock {\em JMLR}, 2011.
+
+\bibitem{Goyal17}
+P.~Goyal, P.~Dollar, R.~Girshick, P.~Noordhuisi, L.~Wesolowski, A.~Kyrola,
+  A.~Tulloch, Y.~Jia, and K.~He.
+\newblock Accurate, large minibatch sgd: training imagenet in 1 hour.
+\newblock {\em arXiv}, 2017.
+
+\bibitem{Hochreiter97}
+S.~Hochreiter and J.~Schmidhuber.
+\newblock Long short-term memory.
+\newblock {\em Neural Computation}, 1997.
+
+\bibitem{Kingma14}
+D.~Kingma and J.~Ba.
+\newblock A method for stochastic optimization.
+\newblock {\em arXiv}, 2014.
+
+\bibitem{Kingsbury12}
+B.~Kingsbury, T.~Sainath, and H.~Soltau.
+\newblock Scalable minimum bayes risk training of deep neural network acoustic
+  models using distributed hessian-free optimization.
+\newblock {\em Interspeech}, 2012.
+
+\bibitem{Kiros13}
+R.~Kiros.
+\newblock Training neural networks with stochastic hessian-free optimization.
+\newblock {\em International Conference on Learning Representations}, 2013.
+
+\bibitem{LeRoux08}
+N.~Le~Roux, P.~Manzagol, and Y.~Bengio.
+\newblock Topmoumoute online natural gradient algorithm.
+\newblock {\em NIPS}, 2008.
+
+\bibitem{LeCun98}
+Y.~LeCun, L.~Bottou, Y.~Bengio, and P.~Haffner.
+\newblock Gradient based learning applied to document recognition.
+\newblock {\em Proceeding of the IEEE}, 1998.
+
+\bibitem{Mertens10}
+J.~Mertens.
+\newblock Deep learning via hessian-free optimization.
+\newblock {\em Proceedings of the 27th International Conference on Machine
+  Learning}, 2010.
+
+\bibitem{Mizutani08}
+E.~Mizutani and S.~E. Dreyfus.
+\newblock Second-order stagewise back-propagation for hessian-matrix analyses
+  and investigation of negative curvature.
+\newblock {\em Neural Networks}, 2008.
+
+\bibitem{Nesterov83}
+Y.~Nesterov.
+\newblock A method for unconstrained convex minimization problem with the rate
+  of convergence o (1/k2).
+\newblock {\em Doklady AN SSSR}, 1983.
+
+\bibitem{Nocedal06}
+J.~Nocedal and S.~Wright.
+\newblock Numerical optimization.
+\newblock {\em Springer Science and Business Media}, 2006.
+
+\bibitem{Olivare08}
+A.~Olivare, J.~Moguerza, and F.~Prieto.
+\newblock Nonconvex optimization using negative curvature within a modified
+  linesearch.
+\newblock {\em European Journal of Operational Research}, 2008.
+
+\bibitem{Pearlmutter94}
+B.~Pearlmutter.
+\newblock Fast exact multiplication by the hessian.
+\newblock {\em Neural Computation}, 1994.
+
+\bibitem{Raina09}
+R.~Raina, A.~Madhavan, and A.~Ng.
+\newblock Large-scale deep unsupervised learning using graphics processors.
+\newblock {\em ICML}, 2009.
+
+\bibitem{Razvan14}
+P.~Razvan and Y.~Bengio.
+\newblock Revisiting natural gradient for deep networks.
+\newblock {\em International Conference on Learning Representations}, 2014.
+
+\bibitem{Roosta-Khorasani16}
+F.~Roosta-Khorasani and M.~Mahoney.
+\newblock Sub-sampled newton methods i: globally convergent algorithms.
+\newblock {\em arXiv preprint}, 2016.
+
+\bibitem{Schraudolph02}
+N.~Schraudolph.
+\newblock Fast curvature matrix-vector products for second-order gradient
+  descent.
+\newblock {\em Neural Computation}, 2002.
+
+\bibitem{Tieleman12}
+T.~Tieleman and G.~Hinton.
+\newblock Divide the gradient by a running average of its recent magnitude.
+\newblock {\em Neural Networks for Machine Learning}, 2012.
+
+\bibitem{Xu17}
+P.~Xu, F.~Roosta-Khorasani, and M.~Mahoney.
+\newblock Second-order optimization for non-convex machine learning: An
+  empirical study.
+\newblock {\em arXiv}, 2017.
+
+\bibitem{Zinkevich10}
+M.~Zinkevich, M.~Weime, A.~Smola, and L.~Li.
+\newblock Parallelized stochastic gradient descent.
+\newblock {\em NIPS}, 2010.
+
+\end{thebibliography}
